@@ -1,11 +1,4 @@
-streamlit
-numpy
-pandas
-seaborn
-matplotlib
-plotly
-scikit-learn
-xgboost
-pandas_profiling
-streamlit_pandas_profiling
-PIL 
+pandas==1.5.3
+Pillow==9.4.0
+scikit_learn==1.2.1
+seaborn==0.12.2
